@@ -52,7 +52,7 @@ async def ping_com(client, message: Message, _):
     await asyncio.sleep(2)
     await response.edit_caption("**CHALCOGEN 📩sᴇɴᴅɪɴɢ sʏsᴛᴇᴍ ᴀɴᴀʟʏsᴇᴅ ᴅᴀᴛᴀ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...**")
     start = datetime.now()
-    pytgping = await JARVIS.ping()
+    pytgping = await chalcogen.ping()
     UP, CPU, RAM, DISK = await bot_sys_stats()
     resp = (datetime.now() - start).microseconds / 1000
     text =  _["ping_2"].format(resp, app.name, UP, RAM, CPU, DISK, pytgping)
