@@ -18,7 +18,7 @@ BOT_NAME = getenv("BOT_NAME", "˹♪ ℙ𝔼ℕ𝔾𝕌𝕀ℕ 𝕏 𝕄𝕌𝕊
 ASSUSERNAME = getenv("ASSUSERNAME", "PENGUIN_ASSISTANT")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", --1002041048920))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002041048920)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
