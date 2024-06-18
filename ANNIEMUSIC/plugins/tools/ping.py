@@ -1,6 +1,4 @@
 from datetime import datetime
-from pyrogram import filters
-from datetime import datetime
 
 from pyrogram import filters
 from pyrogram.types import Message
@@ -29,20 +27,3 @@ async def ping_com(client, message: Message, _):
         _["ping_2"].format(resp, app.mention, UP, RAM, CPU, DISK, pytgping),
         reply_markup=supp_markup(_),
     )
-        [
-            InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/penguin_x_chat",
-            ),
-            InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/PENGUIN_X_SUPPORT",
-            )
-        ],
-        [
-            InlineKeyboardButton(
-                text="❅ ʜᴇʟᴘ ❅", callback_data="settings_back_helper"
-            )
-        ],
-    ]
-    ),
-        )
-    await response.delete()
