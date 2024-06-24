@@ -10,9 +10,9 @@
 <p align="center"><a href="https://t.me/CHALCOGENXD"><img src="https://telegra.ph/file/9b216a63b96955753dca6.jpg" width="600"></a></p>
 
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡𝗫𝗗+✨+🦋+💗+"></b></h3> 
-<h2 align="center">
 
-    
+
+<h2 align="center">  
     ─「 💗sᴛʀɪɴɢ sᴇssɪᴏɴ🦋 」─
 </h2>
 <details>
